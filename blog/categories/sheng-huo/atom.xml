@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[你还在碎碎念]]></title>
-  <link href="http://wscanf.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 生活 | 你还在碎碎念]]></title>
+  <link href="http://wscanf.github.io/blog/categories/sheng-huo/atom.xml" rel="self"/>
   <link href="http://wscanf.github.io/"/>
   <updated>2013-07-24T21:09:46+08:00</updated>
   <id>http://wscanf.github.io/</id>
