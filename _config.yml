@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://wscanf.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 你还在碎碎念
+subtitle: 我说的都是扯蛋
+author: wscanf
 simple_search: http://google.com/search
-description:
+description: 天不绝人愿 但使侬见郎
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: wscanf@126.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
